@@ -3,3 +3,6 @@
 ################################################################################
 
 /async-await-example/bin
+/.vs/async-await-example
+/async-await-example/obj
+/output
